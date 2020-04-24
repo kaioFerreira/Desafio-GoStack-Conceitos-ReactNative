@@ -1,2 +1,2 @@
 # ReactNative-Desafio-GoStack-Week-1
-Desenvolver uma aplicação baseada nos repositórios do GitHub.
+Primeiro desafio em React Native concluído do curso da Rockeatseat, GoStack!
